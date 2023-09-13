@@ -5,5 +5,6 @@
 
 models/automl_w_date_feat_21_08_23.pkl
 models/automl_w_normal_feat_22_08_23.pkl
+models/automl_w_normal_feat_13_09_23.pkl
 data/test.csv
 data/train.csv
